@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../back"
+		},
+		{
+			"path": "../esig_back"
+		}
+	],
+	"settings": {}
+}
